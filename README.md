@@ -1,3 +1,16 @@
+# 42sh
+
+Epitech project whose goal is to recreate TCSH and most of its functionnalities
+
+### Developers
+
+Emilien Delevoye
+Paul Surrans
+Charles Dubret
+Alfred Deschildre
+
+### Features
+
 local and environment variable: $[variable name]
       	     replace the variable name call by it's variable value.
       	     take as variable name all alphanumeric charachter from $ to the first non alphanumeric character.
